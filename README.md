@@ -3,11 +3,11 @@ This script removes January 2022 1B LCU
 # Project Name
 
 ## Uninstallation
-We have different options first this is local uninstall as you get on the DC, second is Remote
+We have different options first this is local uninstall as you get on the DC, second is Remote uninstall
 
 ## Usage
 
-TODO: select which Option works for you, and take the best one
+TODO: select which Option works best for you, and take the matching approach for your environment
 
 ## Contributing
 
